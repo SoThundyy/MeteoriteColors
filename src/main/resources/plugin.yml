@@ -1,0 +1,4 @@
+name: MeteoriteColors
+version: '${project.version}'
+main: it.thundyy.meteoritecolors.ColorPlugin
+api-version: 1.8
